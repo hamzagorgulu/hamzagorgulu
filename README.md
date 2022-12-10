@@ -6,9 +6,31 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on various deep learning projects as a project master student at TÜPRAŞ.</li>
+<li>🔭 I’m currently working on alarm prediction deep learning project at TÜPRAŞ.</li>
 <li>🧐 I am interested in natural language processing and computer vision.</li>
 <li>👨‍💻 I have experience in electrical engineering and computer engineering.</li>
 <li>💬 Ping me about anything related to deep learning and computer engineering.</li>
 <li>🏃‍♂️ In my free time, I enjoy jogging and swimming.</li>
 </ul>
+
+<h2>💼 Work Experience</h2>
+<ul>
+<li>🏢 Project Master Student at TÜPRAŞ (2022-present): Working on various deep learning projects related to natural language processing and computer vision.</li>
+</ul>
+
+<h2>🎓 Education</h2>
+<ul>
+<li>🎓 Koç University (2022-present): Master's degree in Computer Engineering</li>
+<li>🎓 Yıldız Technical University (2016-2022): Bachelor's degree in Electrical Engineering</li>
+<li>🎓 Dortmund Technical University (2018-2019): Erasmus student at Electrical Engineering</li>
+</ul>
+
+<h2>🧘‍♂️ Interests and Hobbies</h2>
+<ul>
+<li>🏃‍♂️ Jogging and swimming</li>
+<li>📖 Reading books on deep learning and computer engineering</li>
+<li>🎮 Listening podcasts</li>
+</ul>
+
+
+
