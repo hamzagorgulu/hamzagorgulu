@@ -33,9 +33,9 @@
 <ul>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" /> Python</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" /> Git</li>
-<li><img src="https://raw.githubusercontent.com/conda/conda/main/docs/_static/conda_logo.svg" alt="conda" width="25" height="25" /> Conda</li>
+<li><img src="[https://raw.githubusercontent.com/conda/conda/main/docs/_static/conda_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fconda&psig=AOvVaw24tyUXHe-yEg8SBjTk5xb5&ust=1670745186686000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDHz_zI7vsCFQAAAAAdAAAAABAE)" alt="conda" width="25" height="25" /> Conda</li>
 <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="25" height="25" /> Visual Studio Code</li>
-<li>< img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fconda&psig=AOvVaw24tyUXHe-yEg8SBjTk5xb5&ust=1670745186686000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDHz_zI7vsCFQAAAAAdAAAAABAE" alt="pytorch" width="25" height="25" /> PyTorch</li>
+<li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="25" height="25" /> Pytorch</li>
 <li><img src="https://raw.githubusercontent.com/tensorflow/tensorflow/main/tensorflow/lite/g3doc/images/tensorflow_logo.png" alt="tensorflow" width="25" height="25" /> TensorFlow</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25" /> C++</li>
 </ul>
