@@ -1,9 +1,14 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Hamza</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Istanbul. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-hamzagorgul.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@hamzagorgul"><img src="https://img.shields.io/badge/-@hamzagorgul-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@hamzagorgul" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/hamzagorgul/"><img src="https://img.shields.io/badge/-@hamzagorgul-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hamzagorgul/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>Hey 👋, I'm Hamza Görgülü</h2>
+<p>I studied electrical engineering at Yıldız Technical University and am currently studying computer engineering at Koç University. I am passionate about deep learning and have a particular interest in natural language processing and computer vision. I am a project master student funded by TÜPRAŞ, where I am working on various projects related to deep learning.</p>
+<p>In my free time, I enjoy jogging and swimming to keep myself fit and healthy. You can find me on LinkedIn and feel free to ping me about anything related to deep learning and computer engineering.</p>
+
+<p><a href="https://www.linkedin.com/in/hamzagorgulu"><img src="https://img.shields.io/badge/-@hamzagorgulu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hamzagorgulu/" alt="LinkedIn Badge"></a></p>
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures
+<li>🔭 I’m currently working on various deep learning projects as a project master student at TÜPRAŞ.</li>
+<li>🧐 I am interested in natural language processing and computer vision.</li>
+<li>👨‍💻 I have experience in electrical engineering and computer engineering.</li>
+<li>💬 Ping me about anything related to deep learning and computer engineering.</li>
+<li>🏃‍♂️ In my free time, I enjoy jogging and swimming.</li>
+</ul>
